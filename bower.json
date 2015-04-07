@@ -1,0 +1,7 @@
+{
+  "name": "frontcamp",
+  "private": true,
+  "dependencies": {
+    "seajs": "*"
+  }
+}
