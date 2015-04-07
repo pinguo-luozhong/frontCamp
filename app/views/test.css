@@ -1,0 +1,6 @@
+.bg{
+  width: 100px;
+  height: 100px;
+  background-image: url("/resource/images/DSC02114.JPG");
+  background-size: cover;
+}

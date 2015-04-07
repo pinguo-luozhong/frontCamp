@@ -98,9 +98,9 @@ gulp.task('serve', ['styles'], function () {
 gulp.task('dist', ['styles'], function () {
   browserSync({
     notify: false,
-    port: 9000,
+    port: 9001,
     server: {
-      baseDir: ['.tmp', 'app'],
+      baseDir: "dist",
       routes: {
         '/bower_components': 'bower_components'
       }
