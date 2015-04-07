@@ -2,6 +2,7 @@
   "name": "frontcamp",
   "private": true,
   "dependencies": {
-    "seajs": "*"
+    "seajs": "*",
+    "jquery": "~2.1.3"
   }
 }
